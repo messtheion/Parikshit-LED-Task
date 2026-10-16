@@ -45,9 +45,6 @@ gcc main.c led.c -o led_program
 ### Execution (Windows PowerShell)
 .\led_program.exe
 
-### Execution (Linux / macOS)
-./led_program
-
 ---
 
 ## Sample Output
