@@ -1,0 +1,5 @@
+.vscode/
+led_program.exe
+led_program
+*.exe
+*.o
